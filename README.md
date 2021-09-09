@@ -43,7 +43,9 @@
 
 ### 화면설계 
 -카카오 오븐을 이용하여 화면을 설계했습니다. 
+[당근당근바니바니 화면설계.pdf](https://github.com/sehoong0429/semi_CarrotBunny/files/7138004/default.pdf)
 ![image](https://user-images.githubusercontent.com/67987230/132700921-679c1677-21d9-4321-a06f-a9d737279fc4.png)
+
 
 
 ## 기능
