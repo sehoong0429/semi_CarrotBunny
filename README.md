@@ -35,7 +35,7 @@
 **Tools & OS**
 - eclipse
 - docker
-- mac Os
+- macOs
 
 ### DB구조 
 -erd 클라우드를 이용하여 db 설계를 진행했습니다. 
