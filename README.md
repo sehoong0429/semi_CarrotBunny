@@ -38,7 +38,7 @@
 - macOs
 
 ### DB구조 
--erd 클라우드를 이용하여 db 설계를 진행했습니다. 
+-erd 클라우드를 이용하여 db설계를 진행했습니다. 
 ![image](https://user-images.githubusercontent.com/67987230/132698321-0d7834a4-c760-4879-a56a-4dbe50fd5d6e.png)
 
 ### 화면설계 
